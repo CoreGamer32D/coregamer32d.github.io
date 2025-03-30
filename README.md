@@ -2,11 +2,11 @@
   
 # 🎮 CoreGamer32D Portfolio
 
-[![GitHub stars](https://img.shields.io/github/stars/CoreGamer32DD/CoreGamer32D.github.io?style=for-the-badge)](https://github.com/CoreGamer32D/CoreGamer32D.github.io/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/CoreGamer32DD/CoreGamer32D.github.io?style=for-the-badge)](https://github.com/CoreGamer32D/CoreGamer32D.github.io/network)
-[![GitHub issues](https://img.shields.io/github/issues/CoreGamer32DD/CoreGamer32D.github.io?style=for-the-badge)](https://github.com/CoreGamer32D/CoreGamer32D.github.io/issues)
-[![GitHub license](https://img.shields.io/github/license/CoreGamer32DD/CoreGamer32D.github.io?style=for-the-badge)](https://github.com/CoreGamer32D/CoreGamer32D.github.io/blob/main/LICENSE)
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2FCoreGamer32D.github.io)](https://CoreGamer32D.github.io/)
+[![GitHub stars](https://img.shields.io/github/stars/CoreGamer32D/coregamer32d.github.io?style=for-the-badge)](https://github.com/CoreGamer32D/coregamer32d.github.io/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/CoreGamer32D/coregamer32d.github.io?style=for-the-badge)](https://github.com/CoreGamer32D/coregamer32d.github.io/network)
+[![GitHub issues](https://img.shields.io/github/issues/CoreGamer32D/coregamer32d.github.io?style=for-the-badge)](https://github.com/CoreGamer32D/coregamer32d.github.io/issues)
+[![GitHub license](https://img.shields.io/github/license/CoreGamer32D/coregamer32d.github.io?style=for-the-badge)](https://github.com/CoreGamer32D/coregamer32d.github.io/blob/main/LICENSE)
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fcoregamer32d.github.io)](https://coregamer32d.github.io/)
 
 <p>
   <img src="https://i.imgur.com/nGyNwFv.png" alt="Banner Image" width="100%">
@@ -14,7 +14,7 @@
 
 ### 💻 A showcase of game development, web projects, and historical simulations
 
-[View Live Demo](https://CoreGamer32D.github.io) | [Report Bug](https://github.com/CoreGamer32DD/CoreGamer32D.github.io/issues) | [Request Feature](https://github.com/CoreGamer32D/CoreGamer32D.github.io/issues)
+[View Live Demo](https://coregamer32d.github.io) | [Report Bug](https://github.com/CoreGamer32DD/coregamer32d.github.io/issues) | [Request Feature](https://github.com/CoreGamer32D/coregamer32d.github.io/issues)
 
 </div>
 
@@ -154,7 +154,7 @@ gantt
 ## 📁 Project Structure
 
 ```
-CoreGamer32D.github.io/
+coregamer32d.github.io/
 ├── index.html              # Main landing page
 ├── src/
 │   ├── assets/             # Static resources
@@ -202,13 +202,13 @@ CoreGamer32D.github.io/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/CoreGamer32D/CoreGamer32D.github.io.git
+git clone https://github.com/CoreGamer32D/coregamer32d.github.io.git
 ```
 
 2. **Navigate to the project directory**
 
 ```bash
-cd CoreGamer32D.github.io
+cd coregamer32d.github.io
 ```
 
 3. **Open in your browser**
@@ -320,6 +320,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### ⭐ Star this repository if you find it useful! ⭐
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=CoreGamer32D.CoreGamer32D.github.io" alt="visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=CoreGamer32D.coregamer32d.github.io" alt="visitors">
 
 </div>

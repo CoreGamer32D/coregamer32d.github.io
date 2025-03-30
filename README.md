@@ -1,12 +1,12 @@
 <div align="center">
   
-# 🎮 CoreGamer32 Portfolio
+# 🎮 CoreGamer32D Portfolio
 
-[![GitHub stars](https://img.shields.io/github/stars/CoreGamer32/CoreGamer32.github.io?style=for-the-badge)](https://github.com/CoreGamer32/CoreGamer32.github.io/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/CoreGamer32/CoreGamer32.github.io?style=for-the-badge)](https://github.com/CoreGamer32/CoreGamer32.github.io/network)
-[![GitHub issues](https://img.shields.io/github/issues/CoreGamer32/CoreGamer32.github.io?style=for-the-badge)](https://github.com/CoreGamer32/CoreGamer32.github.io/issues)
-[![GitHub license](https://img.shields.io/github/license/CoreGamer32/CoreGamer32.github.io?style=for-the-badge)](https://github.com/CoreGamer32/CoreGamer32.github.io/blob/main/LICENSE)
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fcoregamer32.github.io)](https://coregamer32.github.io/)
+[![GitHub stars](https://img.shields.io/github/stars/CoreGamer32DD/CoreGamer32D.github.io?style=for-the-badge)](https://github.com/CoreGamer32D/CoreGamer32D.github.io/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/CoreGamer32DD/CoreGamer32D.github.io?style=for-the-badge)](https://github.com/CoreGamer32D/CoreGamer32D.github.io/network)
+[![GitHub issues](https://img.shields.io/github/issues/CoreGamer32DD/CoreGamer32D.github.io?style=for-the-badge)](https://github.com/CoreGamer32D/CoreGamer32D.github.io/issues)
+[![GitHub license](https://img.shields.io/github/license/CoreGamer32DD/CoreGamer32D.github.io?style=for-the-badge)](https://github.com/CoreGamer32D/CoreGamer32D.github.io/blob/main/LICENSE)
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2FCoreGamer32D.github.io)](https://CoreGamer32D.github.io/)
 
 <p>
   <img src="https://i.imgur.com/nGyNwFv.png" alt="Banner Image" width="100%">
@@ -14,7 +14,7 @@
 
 ### 💻 A showcase of game development, web projects, and historical simulations
 
-[View Live Demo](https://coregamer32.github.io) | [Report Bug](https://github.com/CoreGamer32/CoreGamer32.github.io/issues) | [Request Feature](https://github.com/CoreGamer32/CoreGamer32.github.io/issues)
+[View Live Demo](https://CoreGamer32D.github.io) | [Report Bug](https://github.com/CoreGamer32DD/CoreGamer32D.github.io/issues) | [Request Feature](https://github.com/CoreGamer32D/CoreGamer32D.github.io/issues)
 
 </div>
 
@@ -115,53 +115,9 @@ This portfolio is a comprehensive showcase of my development journey, featuring 
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://i.imgur.com/A4UYSPZ.png" alt="Chernobyl Unit 3" width="100%">
-        <h3>Chernobyl Unit 3</h3>
-        <p>Historical simulation with interactive elements</p>
-        <a href="./src/Projects/">View Project</a>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://i.imgur.com/qwHYytG.png" alt="Project 2" width="100%">
-        <h3>Project 2</h3>
-        <p>Game development using Unity</p>
-        <a href="#">Coming Soon</a>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://i.imgur.com/LqUV1jY.png" alt="Project 3" width="100%">
-        <h3>Project 3</h3>
-        <p>Web application with React</p>
-        <a href="#">Coming Soon</a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated Line" width="100%">
 </p>
-
-## 📱 Live Demos
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>Desktop View</h3>
-        <img src="https://i.imgur.com/M76ZtZL.png" alt="Desktop View" width="500px">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>Mobile View</h3>
-        <img src="https://i.imgur.com/kWVWm2V.png" alt="Mobile View" width="300px">
-      </td>
-    </tr>
-  </table>
-</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated Line" width="100%">
@@ -198,7 +154,7 @@ gantt
 ## 📁 Project Structure
 
 ```
-CoreGamer32.github.io/
+CoreGamer32D.github.io/
 ├── index.html              # Main landing page
 ├── src/
 │   ├── assets/             # Static resources
@@ -246,13 +202,13 @@ CoreGamer32.github.io/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/CoreGamer32/CoreGamer32.github.io.git
+git clone https://github.com/CoreGamer32D/CoreGamer32D.github.io.git
 ```
 
 2. **Navigate to the project directory**
 
 ```bash
-cd CoreGamer32.github.io
+cd CoreGamer32D.github.io
 ```
 
 3. **Open in your browser**
@@ -338,10 +294,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📬 Contact
 
 <div align="center">
-  <a href="mailto:contact@coregamer32.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/CoreGamer32"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://discord.gg/CoreGamer32"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://twitter.com/CoreGamer32"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:contact@CoreGamer32D.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/CoreGamer32D"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://discord.gg/CoreGamer32D"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://twitter.com/CoreGamer32D"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </div>
 
 <p align="center">
@@ -364,6 +320,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### ⭐ Star this repository if you find it useful! ⭐
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=CoreGamer32.CoreGamer32.github.io" alt="visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=CoreGamer32D.CoreGamer32D.github.io" alt="visitors">
 
 </div>
